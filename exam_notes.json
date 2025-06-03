@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "heading": "Functions and Models",
+      "summary": "Various representations of functions introduced: verbal, numerical, visual, and algebraic.",
+      "page_ref": 10
+    },
+    {
+      "id": 2,
+      "heading": "Limits and Derivatives",
+      "summary": "Limits are introduced through tangent and velocity problems, covering multiple viewpoints.",
+      "page_ref": 81
+    },
+    {
+      "id": 3,
+      "heading": "Differentiation Rules",
+      "summary": "Covers basic differentiation rules for polynomial, exponential, and trigonometric functions.",
+      "page_ref": 174
+    },
+    {
+      "id": 4,
+      "heading": "Applications of Differentiation",
+      "summary": "Includes extreme values, Mean Value Theorem, and optimization problems.",
+      "page_ref": 273
+    },
+    {
+      "id": 5,
+      "heading": "The Definite Integral",
+      "summary": "Introduces the concept of the definite integral and the Fundamental Theorem of Calculus.",
+      "page_ref": 371
+    },
+    {
+      "id": 6,
+      "heading": "Techniques of Integration",
+      "summary": "Discusses various techniques for integration including substitution and integration by parts.",
+      "page_ref": 464
+    },
+    {
+      "id": 7,
+      "heading": "Infinite Sequences and Series",
+      "summary": "Introduces sequences, series, and convergence tests such as the Ratio and Root Tests.",
+      "page_ref": 690
+    },
+    {
+      "id": 8,
+      "heading": "Parametric Equations and Polar Coordinates",
+      "summary": "Covers functions defined by parametric equations and applications in calculus.",
+      "page_ref": 635
+    },
+    {
+      "id": 9,
+      "heading": "Vector Functions",
+      "summary": "Explores vector functions and their derivatives in three-dimensional space.",
+      "page_ref": 839
+    },
+    {
+      "id": 10,
+      "heading": "Partial Derivatives",
+      "summary": "Introduces functions of multiple variables and techniques for finding partial derivatives.",
+      "page_ref": 878
+    }
+  ]
+}
